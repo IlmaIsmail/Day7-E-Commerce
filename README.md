@@ -74,7 +74,8 @@ The application connects to a MySQL database with the following configuration:
 
 ![Screenshot (87)](https://github.com/user-attachments/assets/27fa7336-5180-46ef-a239-da2465aefda8)
 
-![Screenshot (88)](https://github.com/user-attachments/assets/15d4935c-b907-4435)
+![Screenshot (88)](https://github.com/user-attachments/assets/a553ed2f-8449-487f-8104-af7bcef1e3f9)
+
 
 ![Screenshot (89)](https://github.com/user-attachments/assets/34411e6a-89c2-4e57-b8e8-62b6f6f6c2da)
 -994f-a378dbd45e22)
